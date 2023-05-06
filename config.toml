@@ -15,6 +15,11 @@ googleAnalytics = ""
 # Copyright
 copyright = "&copy;2021 Juli-Ann Gasper"
 
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
+
 [params]
 
   # Metadata for search engines and social sharing
@@ -32,7 +37,7 @@ copyright = "&copy;2021 Juli-Ann Gasper"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/book_cover.jpg"
+      file = "images/book_cover.png"
       position = "center center"
 
     # Video
@@ -46,18 +51,36 @@ copyright = "&copy;2021 Juli-Ann Gasper"
   #
   # Links List #1
   [[params.links]]
+		
     [params.links.list1]
-      #heading = "Purchase"
+      heading = "Main"
+
+      [[params.links.list1.link]]
+        text = "Home"
+        url = "index.html"
+        new_tab = false # new tab
+   [[params.links]]
+    [params.links.list1]
+      heading = "Purchase"
 
       [[params.links.list1.link]]
         text = "Purchase on Amazon"
         url = "https://www.amazon.com/Way-North-Where-Kittiwakes-Play/dp/0578110342"
         new_tab = true # new tab
-
+	
+	[[params.links]]
+		[params.links.list1]
+			heading = "See inside"
       [[params.links.list1.link]]
-        text = "See inside"
-        url = "sample"
+        text = "Big Words"
+        url = "bigwords.html"
         new_tab = false # Default, open at same tab
+      [[params.links.list1.link]]
+        text = "The Arctic Fox"
+        url = "fox.html"
+        new_tab = false # Default, open at same tab
+
+
     #[params.links.list2]
     #  heading = "See inside"
     #  [[params.links.list1.link]]
