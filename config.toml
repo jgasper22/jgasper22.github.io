@@ -47,18 +47,21 @@ copyright = "&copy;2021 Juli-Ann Gasper"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Purchase"
+      #heading = "Purchase"
 
       [[params.links.list1.link]]
-        text = "Amazon"
+        text = "Purchase on Amazon"
         url = "https://www.amazon.com/Way-North-Where-Kittiwakes-Play/dp/0578110342"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
-        text = "Email"
-        url = "#"
+        text = "See inside"
+        url = "sample"
         new_tab = false # Default, open at same tab
-
+    #[params.links.list2]
+    #  heading = "See inside"
+    #  [[params.links.list1.link]]
+    #    text = ""
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
   # If you'd like to use the template without the attribution, you can check out
