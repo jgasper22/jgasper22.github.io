@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://jgasper22.github.io"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "Way Up North Where the KittiWakes Play"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -13,15 +13,15 @@ uglyURLs = true
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2021 Your Name"
+copyright = "&copy;2021 Juli-Ann Gasper"
 
 [params]
 
   # Metadata for search engines and social sharing
   author = "Juli-Ann Gasper"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
-  shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  description = "Way Up North Where the Kittiwakes Play is a fun alphabet book for children and adults."
+  # shareImage = "images/social.jpg"
+  # twitterHandle = "onepagelove"
 
   # Favicon
   favicon = "favicon.ico"
@@ -47,21 +47,17 @@ copyright = "&copy;2021 Your Name"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Connect"
+      heading = "Purchase"
 
       [[params.links.list1.link]]
-        text = "Blog"
-        url = "#"
+        text = "Amazon"
+        url = "https://www.amazon.com/Way-North-Where-Kittiwakes-Play/dp/0578110342"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
         text = "Email"
         url = "#"
         new_tab = false # Default, open at same tab
-
-      [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
