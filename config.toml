@@ -32,7 +32,7 @@ copyright = "&copy;2021 Your Name"
     # Image
     [params.visual.image]
       enable = true
-      file = "static/book_cover.jpg"
+      file = "images/book_cover.jpg"
       position = "center center"
 
     # Video
