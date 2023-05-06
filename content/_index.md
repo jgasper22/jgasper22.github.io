@@ -1,5 +1,4 @@
 +++
-title = "JuliAnn Gasper"
 tagline = "Kittiwakes Play"
 +++
 

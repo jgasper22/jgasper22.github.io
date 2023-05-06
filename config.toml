@@ -18,7 +18,7 @@ copyright = "&copy;2021 Your Name"
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
+  author = "Juli-Ann Gasper"
   description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
@@ -61,40 +61,6 @@ copyright = "&copy;2021 Your Name"
 
       [[params.links.list1.link]]
         text = "Newsletter"
-        url = "#"
-
-  # Links List #2
-  [[params.links]]
-    [params.links.list2]
-      heading = "Social"
-
-      [[params.links.list2.link]]
-        text = "Twitter"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Instagram"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
-
-  # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "Network"
-
-      [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Three"
         url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
