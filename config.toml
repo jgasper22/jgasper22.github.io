@@ -13,7 +13,7 @@ uglyURLs = true
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2021 Juli-Ann Gasper"
+copyright = "&copy;2023 Juli-Ann Gasper"
 
 [markup]
 	[markup.goldmark]
