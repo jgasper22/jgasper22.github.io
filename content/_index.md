@@ -8,4 +8,6 @@ The alphabet has never been so much fun for joint adult/child reading! For each 
 
 Purchase at [alibris](https://www.alibris.com/booksearch?mtype=B&keyword=way+up+north+where+the+kittiwakes+play&hs.x=0&hs.y=0) and please leave a review!
 
-Check out the [press release](https://www.webwire.com/ViewPressRel.asp?aId=310703)!
+View the [press release](https://www.webwire.com/ViewPressRel.asp?aId=310703)!
+
+Check out the [YouTube trailer](https://www.youtube.com/watch?v=8gulrMm3gH8)!
