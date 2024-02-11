@@ -60,13 +60,13 @@ copyright = "&copy;2023 Juli-Ann Gasper"
         url = "index.html"
         new_tab = false # new tab
    [[params.links]]
-    [params.links.list1]
-      heading = "Purchase"
+    #[params.links.list1]
+    #  heading = "Purchase"
 
-      [[params.links.list1.link]]
-        text = "Purchase on alibris"
-        url = "https://www.alibris.com/booksearch?mtype=B&keyword=way+up+north+where+the+kittiwakes+play&hs.x=0&hs.y=0"
-        new_tab = true # new tab
+    #  [[params.links.list1.link]]
+    #    text = "Purchase on alibris"
+    #    url = "https://www.alibris.com/booksearch?mtype=B&keyword=way+up+north+where+the+kittiwakes+play&hs.x=0&hs.y=0"
+    #    new_tab = true # new tab
 	
 	[[params.links]]
 		[params.links.list1]
